@@ -81,6 +81,6 @@ module.exports = {
         new HtmlWebpackPlugin({
             template,
             filename: 'index.html'
-        })
+        }),
     ]
 }
